@@ -11,5 +11,9 @@ for films in table.find_all('i'):
 #    print(movie_name)
 
 for directors in table.find_all('tr'):
-    director = directors.find_all('td')[1].text
-    print(director)
+    try:
+        director = directors.find_all('td')[1].text
+#        print(director)
+    except:
+        pass
+
