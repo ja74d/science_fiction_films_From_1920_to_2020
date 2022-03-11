@@ -7,39 +7,30 @@ soup = BeautifulSoup(source, 'lxml')
 table = soup.find('table', class_='wikitable')
 
 # all movies
-for films in table.find_all('i'):
-    movie_name = films.text
-#    print(movie_name)
+def info():
+    for films in table.find_all('tr'):
+        try:
+            movie_name = films.find_all('td')[0].text
+            print(movie_name)
 
+            # movie director
+            director = films.find_all('td')[1].text
+            print(director)
 
-# movie director
-for directors in table.find_all('tr'):
-    try:
-        director = directors.find_all('td')[1].text
-#        print(director)
-    except:
-        pass
+            # cast
+            cast_name = films.find_all('td')[2].text
+            print(cast_name)
 
-# cast
-for cast in table.find_all('tr'):
-    try:
-        cast_name = cast.find_all('td')[2].text
-#        print(cast_name)
-    except:
-        pass
+            # country
+            country_name = films.find_all('td')[3].text
+            print(country_name)
 
-# country
-for country in table.find_all('tr'):
-    try:
-        country_name = country.find_all('td')[3].text
-#        print(country_name)
-    except:
-        pass
+            # subgenre/notes
+            subgenre_name = films.find_all('td')[4].text
+            print(subgenre_name)
 
-# subgenre/notes
-for subgenre in table.find_all('tr'):
-    try:
-        subgenre_name = subgenre.find_all('td')[4].text
-#        print(subgenre_name)
-    except:
-        pass
+            #print('\n')
+            print('----------------------------')
+        except:
+            pass
+info()
