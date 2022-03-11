@@ -1,0 +1,938 @@
+movie_name,director,cast_name,country_name,subgenre_name
+Altitude,Kaare Andrews,"Jessica Lowndes, Julianna Guill, Ryan Donowho",Canada,"Horror
+"
+Alien vs Ninja,Seiji Chiba,"Shuuji Kashiwabara, Ben Hiura",Japan,"Action
+"
+Batman: Under the Red Hood,Brandon Vietti,"Bruce Greenwood, Jensen Ackles, John DiMaggio",United States,"Animated superhero film[1]
+"
+Beyond the Black Rainbow,Panos Cosmatos,"Michael Rogers, Eva Allan",Canada,"Mystery thriller
+"
+The Book of Eli,"Albert Hughes, Allen Hughes","Denzel Washington, Gary Oldman, Mila Kunis",United States,"Post-apocalyptic
+"
+The Crazies,Breck Eisner,"Timothy Olyphant, Radha Mitchell, Joe Anderson",United States,"Horror
+"
+Daybreakers,"Peter Spierig, Michael Spierig","Ethan Hawke, Willem Dafoe, Sam Neill",United States,"Vampire thriller
+"
+Denizen,J.A. Steel,"J.A. Steel, Julie Corgill, Glen Jensen, Ben Bayless",United States,"Action horror[2][3]
+"
+Despicable Me,"Pierre Coffin, Chris Renaud","Steve Carell (voice), Miranda Cosgrove (voice), Dana Gaier (voice), Elsie Fisher (voice), Jemaine Clement (voice), Jason Segel (voice)",United States,"Family-oriented animated comedy
+"
+The Disappearance of Haruhi Suzumiya,"Tatsuya Ishihara, Yasuhiro Takemoto","Aya Hirano (voice), Tomokazu Sugita (voice), Minori Chihara (voice), Yūko Gotō (voice), Daisuke Ono (voice)",Japan,"Anime drama
+"
+Downstream,"Simone Bartesaghi, Philip Kim","Jonathon Trent, Jono Roberts",United States,"Post-apocalyptic action[4]
+"
+Enthiran,S. Shankar,"Rajinikanth, Aishwarya Rai Bachchan",India,"Robot Uprising
+"
+Future X-Cops,Wong Jing,"Andy Lau, Xu Jiao, Barbie Hsu",ChinaHong KongTaiwan,"Time travel
+"
+Growth,Gabriel Cowan,Mircea Monroe,United States,"Horror
+"
+Hot Tub Time Machine,"Sean Anders, John Morris","Rob Corddry, John Cusack",United States,"Comedy
+"
+Hunter Prey,Sandy Collora,"Clark Bartram, Damion Poitier, Isaac C. Singleton Jr.",United States,"Thriller
+"
+Inception,Christopher Nolan,"Leonardo DiCaprio, Ken Watanabe, Joseph Gordon-Levitt",United KingdomUnited States,"Action thriller[nb 1]
+"
+Iron Man 2,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle",United States,"Superhero
+"
+Justice League: Crisis on Two Earths,"Lauren Montgomery, Sam Liu","William Baldwin, Mark Harmon, Chris Noth",United States,"Animated superhero film[5]
+"
+Kaboom,Gregg Araki,"Thomas Dekker, Juno Temple, Haley Bennett",FranceUnited States,"Comedy mystery
+"
+Die kommenden Tage,Lars Kraume,"Bernadette Heerwagen, Johanna Wokalek, Daniel Brühl, August Diehl",Germany,"Near-future drama[6]
+"
+Manborg,Steven Kostanski,"Matthew Kennedy, Adam Brooks, Meredith Sweeney",Canada,"Action[7]
+"
+Mardock Scramble: The First Compression,Susumu Kudo,,Japan,"Anime film
+"
+Megamind,Tom McGrath,"Will Ferrell (voice), Brad Pitt (voice), Tina Fey (voice), David Cross (voice), Jonah Hill (voice)",United States,"Family-oriented action comedy
+"
+Monsters,Gareth Edwards,"Scoot McNairy, Whitney Able",United Kingdom,"Romantic drama
+"
+Mutant Girls Squad,"Noboru Iguchi, Yoshihiro Nishimura, Tak Sakaguchi","Yumi Sugimoto, Yuko Takayama, Suzuka Morita",Japan,"Action
+"
+Never Let Me Go,Mark Romanek,"Keira Knightley, Carey Mulligan, Andrew Garfield",United Kingdom,"Dystopian, romantic drama
+"
+Predators,Nimród Antal,"Adrien Brody, Topher Grace, Laurence Fishburne",United States,"Horror
+"
+Repo Men,Miguel Sapochnik,"Jude Law, Liev Schreiber, Forest Whitaker",United States,"Action thriller
+"
+Resident Evil: Afterlife,Paul W. S. Anderson,"Milla Jovovich, Ali Larter, Spencer Locke",GermanyUnited KingdomUnited States,"Action horror
+"
+Shank,Mo Ali,"Adam Deacon, Bashy, Kaya Scodelario",United Kingdom,"Action
+"
+Skyline,"Colin Strause, Greg Strause","Donald Faison, Eric Balfour, Scottie Thompson",United States,"Alien invasion thriller
+"
+Space Battleship Yamato,Takashi Yamazaki,"Takuya Kimura, Koyuki, Hiroyuki Ikeuchi, Naoto Takenaka",Japan,"Action adventure[nb 2]
+"
+Superman/Batman: Apocalypse,Lauren Montgomery,"Kevin Conroy, Tim Daly, Summer Glau",United States,"Animated superhero film[8]
+"
+Tron: Legacy,Joseph Kosinski,"Jeff Bridges, Garrett Hedlund, Olivia Wilde",United States,"Action adventure
+"
+Universal Soldier: Regeneration,John Hyams,"Jean-Claude Van Damme, Dolph Lundgren",United States,"Action[nb 3]
+"
+Womb,Benedek Fliegauf,"Eva Green, Matt Smith",Germany,"Romantic drama
+"
+51,Jason Connery,"Bruce Boxleitner, John Shea",United States,"Horror
+"
+7aum Arivu,A. R. Murugadoss,"Surya Sivakumar, Shruti Haasan",India,"Thriller
+"
+The Adjustment Bureau,George Nolfi,"Matt Damon, Emily Blunt",United States,"Romantic thriller
+"
+All-Star Superman,Sam Liu,"James Denton, Christina Hendricks, Anthony LaPaglia",United States,"[9]
+"
+All Superheroes Must Die,Jason Trost,"Jason Trost, Lucas Till, James Remar",United States,"Superhero film[10]
+"
+Another Earth,Mike Cahill,"William Mapother, Brit Marling",United States,"Drama
+"
+Apollo 18,Gonzalo López-Gallego,"Lloyd Owen, Warren Christie",United States,"Horror
+"
+Area Q,Gerson Sanginitto,"Isaiah Washington, Murilo Rosa, Tania Khalill",BrazilUnited States,"Thriller
+"
+Atlas Shrugged: Part I,Paul Johansson,"Taylor Schilling, Grant Bowler",United States,"Mystery drama
+"
+Attack the Block,Joe Cornish,"John Boyega, Nick Frost, Jodie Whittaker, Luke Treadaway",United Kingdom,"Action horror
+"
+Battle: Los Angeles,Jonathan Liebesman,"Aaron Eckhart, Michelle Rodriguez, Michael Peña, Bridget Moynahan",United States,"Alien invasion
+"
+Captain America: The First Avenger,Joe Johnston,"Chris Evans, Hugo Weaving, Samuel L. Jackson",United States,"Superhero
+"
+Cowboys & Aliens,Jon Favreau,"Daniel Craig, Olivia Wilde, Harrison Ford, Sam Rockwell",United States,"Western
+"
+The Darkest Hour,Chris Gorak,"Olivia Thirlby, Emile Hirsch",United States,"Action horror
+"
+Dear God No!,James Bickert,"Jett Bryant, Madeline Brumby, Paul McComiskey",United States,"Horror
+"
+Eva,Kike Maíllo,"Daniel Brühl, Marta Etura, Alberto Ammann",Spain,"Drama[11]
+"
+Extraterrestre,Nacho Vigalondo,"Michelle Jenner, Carlos Areces, Julián Villagrán, Raúl Cimas",Spain,"Drama[12][13]
+"
+Gantz,Shinsuke Sato,"Kazunari Ninomiya, Ken'ichi Matsuyama",Japan,"Action horror
+"
+Gantz: Perfect Answer,Shinsuke Sato,"Kazunari Ninomiya, Ken'ichi Matsuyama",Japan,"Action horror
+"
+Green Lantern,Martin Campbell,"Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong",United States,"Superhero
+"
+Green Lantern: Emerald Knights,Christopher Berkeley,"Nathan Fillion, Elisabeth Moss, Jason Isaacs",United States,"Animated superhero film[14]
+"
+Hell,Tim Fehlbaum,"Hannah Herzsprung, Lars Eidinger, Stipe Erceg",GermanySwitzerland,"Post-apocalyptic[15]
+"
+Hellacious Acres: The Case of John Glass,Pat Tremblay,"Navin Pratap, Jamie Abrams, Paula Davis",Canada,"Post-apocalyptic Comedy
+"
+O Homem do Futuro (The Man from the Future),Cláudio Torres,"Wagner Moura, Alinne Moraes",Brazil,"Time travel/Comedy
+"
+I Am Number Four,D. J. Caruso,"Timothy Olyphant, Alex Pettyfer, Teresa Palmer, Dianna Agron",United States,"Action thriller
+"
+In Time,Andrew Niccol,"Justin Timberlake, Olivia Wilde, Amanda Seyfried",United States,"Thriller
+"
+Limitless,Neil Burger,"Bradley Cooper, Abbie Cornish, Robert De Niro",United States,"Mystery thriller
+"
+Love,William Eubank,Gunner Wright,United States,"Drama
+"
+Mardock Scramble: The Second Combustion,Susumu Kudo,,Japan,"Anime film
+"
+Mars Needs Moms,Simon Wells,"Seth Green (voice), Joan Cusack (voice), Elisabeth Harnois (voice)",United States,"Animated action comedy
+"
+Melancholia,Lars von Trier,"Kirsten Dunst, Kiefer Sutherland",Denmark,"Drama
+"
+Paul,Greg Mottola,"Simon Pegg, Nick Frost, Seth Rogen, Kristen Wiig",United KingdomUnited States,"Comedy
+"
+Phase 7,Nicolás Goldbart,"Daniel Hendler, Jazmín Stuart, Federico Luppi",Argentina,"Comedy thriller
+"
+Priest,Scott Stewart,"Paul Bettany, Karl Urban, Lily Collins",United States,"Action horror
+"
+The Prodigies,Antoine Charreyron,"Jeffrey Evan Thomas (voice), Lauren Ashley Carter (voice), Moon Dailly (voice)",France,"Animated[16]
+"
+Ra.One,Anubhav Sinha,"Shah Rukh Khan, Arjun Rampal, Kareena Kapoor",India,"Action superhero
+"
+Real Steel,Shawn Levy,"Hugh Jackman, Evangeline Lilly",United States,"Action
+"
+Rise of the Planet of the Apes,Rupert Wyatt,"James Franco, Freida Pinto, John Lithgow, Andy Serkis",United States,"Action drama
+"
+Source Code,Duncan Jones,"Jake Gyllenhaal, Vera Farmiga, Michelle Monaghan, Jeffrey Wright",FranceUnited States,"Thriller
+"
+Super 8,J. J. Abrams,"Joel Courtney, Elle Fanning, Kyle Chandler",CanadaUnited States,"Mystery thriller
+"
+The Thing,Matthijs van Heijningen Jr.,"Mary Elizabeth Winstead, Joel Edgerton",United States,"Horror
+"
+Thor,Kenneth Branagh,"Chris Hemsworth, Tom Hiddleston, Natalie Portman, Anthony Hopkins",United States,"Superhero
+"
+Transformers: Dark of the Moon,Michael Bay,"Shia LaBeouf, Rosie Huntington-Whiteley, Josh Duhamel, Tyrese Gibson",United States,"Action
+"
+X-Men: First Class,Matthew Vaughn,"James McAvoy, Michael Fassbender, Jennifer Lawrence",United StatesUnited Kingdom,"Superhero
+"
+009 Re:Cyborg,Kenji Kamiyama,,Japan,"Anime film
+"
+Alien Origin,Mark Atkins,"Chelsea Vincent, Peter Pedrero, Philip Coc, Trey McCurley, Daniela Flynn",United States,"Horror
+"
+The Amazing Spider-Man,Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans",United States,"Superhero
+"
+The Avengers,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson",United States,"[nb 4] Superhero
+"
+"Batman: The Dark Knight Returns, Part 1",Jay Oliva,"Peter Weller, Ariel Winter, David Selby",United States,"Animated superhero film[17]
+"
+Battleship,Peter Berg,"Taylor Kitsch, Alexander Skarsgård, Liam Neeson",United States,"Action thriller
+"
+Branded,"Jamie Bradshaw, Alexander Doulerain","Ed Stoppard, Leelee Sobieski, Jeffrey Tambor, Max von Sydow",RussiaUnited States,"
+"
+Chronicle,Josh Trank,"Michael B. Jordan, Dane DeHaan, Michael Kelly, Alex Russell",United States,"Action drama
+"
+Cloud Atlas,"Tom Tykwer, The Wachowskis","Tom Hanks, Halle Berry, Hugh Grant, Susan Sarandon",GermanyUnited States,"[nb 5] 2 of the 6 stories are science fiction
+"
+Dredd,Pete Travis,"Karl Urban, Olivia Thirlby, Lena Headey",United KingdomUnited States,"
+"
+The Divide,Xavier Gens,"Lauren German, Michael Biehn, Milo Ventimiglia, Rosanna Arquette",CanadaGermanyUnited States,"Drama thriller
+"
+Grabbers,Jon Wright,"Richard Coyle, Ruth Bradley, Russell Tovey",Ireland,"
+"
+The Hunger Games,Gary Ross,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",United States,"[nb 6] Action drama
+"
+Iron Sky,Timo Vuorensola,"Julia Dietze, Götz Otto, Christopher Kirby, Udo Kier",AustraliaFinlandGermany,"Comedy
+"
+John Carter,Andrew Stanton,"Taylor Kitsch, Lynn Collins, Willem Dafoe",United States,"Action adventure
+"
+Justice League: Doom,Lauren Montgomery,"Kevin Conroy, Tim Daly, Nathan Fillion",United States,"Animated superhero film[18]
+"
+Lockout,"James Mather, Stephen St. Leger","Guy Pearce, Maggie Grace, Peter Stormare",France,"Action
+"
+Looper,Rian Johnson,"Bruce Willis, Joseph Gordon-Levitt, Emily Blunt",United States,"
+"
+Mardock Scramble: The Third Exhaust,Susumu Kudo,,Japan,"Anime film
+"
+Mars et Avril,Martin Villeneuve,"Jacques Languirand, Caroline Dhavernas, Paul Ahmarani, Robert Lepage",Canada,"Drama, Fantasy
+"
+Men in Black 3,Barry Sonnenfeld,"Will Smith, Tommy Lee Jones, Josh Brolin",United States,"Comedy
+"
+Prometheus,Ridley Scott,"Noomi Rapace, Charlize Theron, Michael Fassbender",United StatesUnited Kingdom,"Action, Horror
+"
+Resident Evil: Retribution,Paul W. S. Anderson,"Milla Jovovich, Sienna Guillory, Michelle Rodriguez",FranceUnited States,"
+"
+Robot & Frank,Jake Schreier,"Frank Langella, James Marsden, Peter Sarsgaard, Susan Sarandon",United States,"Drama
+"
+Safety Not Guaranteed,Colin Trevorrow,"Aubrey Plaza, Mark Duplass, Jake Johnson",United States,"Comedy drama
+"
+Seeking a Friend for the End of the World,Lorene Scafaria,"Steve Carell, Keira Knightley",United States,"Comedy drama
+"
+Strange Frame,GB Hajim,"Claudia Black (voice), Tim Curry (voice)",United States,"Cut-out animation, Musical
+"
+Starship Troopers: Invasion,Shinji Aramaki,,JapanUnited States,"Computer animation
+"
+Storage 24,Johannes Roberts,"Noel Clarke, Antonia Campbell-Hughes, Laura Haddock, Colin O'Donoghue",United Kingdom,"[19]
+"
+Superman vs. The Elite,Michael Chang,"George Newbern, Pauley Perrette, Robin Atkin Downes",United States,"Animated superhero film[20]
+"
+Total Recall,Len Wiseman,"Colin Farrell, Kate Beckinsale, Jessica Biel, Bryan Cranston",United States,"Cyberpunk action
+"
+Thermae Romae,Hideki Takeuchi,"Hiroshi Abe, Aya Ueto",Japan,"Time travel comedy[21][22]
+"
+Upside Down,Juan Diego Solanas,"Jim Sturgess, Kirsten Dunst",CanadaFrance,"
+"
+The Watch,Akiva Schaffer,"Ben Stiller, Vince Vaughn, Jonah Hill",United States,"Comedy
+"
+After Earth,M. Night Shyamalan,"Will Smith, Jaden Smith",United States,"Action adventure
+"
+The A.R.K. Report,Shmuel Hoffman,"Katy Castaldi, Pascal Yen-Pfister, Ayden Crispe",IsraelUnited States,"Action
+"
+"Batman: The Dark Knight Returns, Part 2",Jay Oliva,"Peter Weller, Ariel Winter, David Selby",United States,"Animated superhero film[23]
+"
+The Brides of Sodom,Creep Creepersin,"Domiziano Arcangell, David Taylor, Rachel Zeskind",United States,"Science fiction horror[24]
+"
+The Colony,Jeff Renfroe,"Laurence Fishburne, Bill Paxton, Kevin Zegers",Canada,"Post-apocalyptic
+"
+The Congress,Ari Folman,"Robin Wright (voice), Harvey Keitel (voice), Jon Hamm (voice), Paul Giamatti (voice)",IsraelGermanyPolandLuxembourgBelgium,"Live action/animation
+"
+The Cosmonaut,Nicolás Alcalá,"Katrine De Candole, Leon Ockenden, David Barrass",Spain,"
+"
+Dark Skies,Scott Stewart,"Keri Russell, Josh Hamilton",United States,"Horror
+"
+Despicable Me 2,"Pierre Coffin, Chris Renaud","Steve Carell (voice), Kristen Wiig (voice), Benjamin Bratt (voice), Miranda Cosgrove (voice), Dana Gaier (voice), Elsie Fisher (voice), Steve Coogan (voice)",United States,"Animated comedy film
+"
+Dick Figures: The Movie,"Ed Skudder, Zack Keller","Ed Skudder, Zack Keller, Eric Bauza, Mike Nassar",United States,"Adult-animated film
+"
+Elysium,Neill Blomkamp,"Matt Damon, Jodie Foster, Wagner Moura, Alice Braga, Sharlto Copley",United States,"Action, Drama
+"
+Escape from Planet Earth,Cal Brunker,"Brendan Fraser (voice), Jessica Alba (voice), Rob Corddry (voice), Sarah Jessica Parker (voice)",United States,"Animated
+"
+Europa Report,Sebastián Cordero,"Sharlto Copley, Michael Nyqvist, Daniel Wu",United States,"Drama
+"
+Ender's Game,Gavin Hood,"Asa Butterfield, Abigail Breslin, Harrison Ford",United States,"Young adult space opera
+"
+Frankenstein's Army,Richard Raaphorst,"Karel Roden, Joshua Sasse, Robert Gwilym",Netherlands,"Sci-fi horror[25]
+"
+Frequencies,Darren Paul Fisher,"Daniel Fraser, Eleanor Wyld, Owen Pugh",United Kingdom,"Hard sf (different laws of physics)
+"
+G.I. Joe: Retaliation,Jon M. Chu,"Dwayne Johnson, Channing Tatum, Bruce Willis",United States,"Action
+"
+Gatchaman,Tōya Satō,"Tori Matsuzaka, Gō Ayano, Ayame Goriki",Japan,"
+"
+Gravity,Alfonso Cuarón,"Sandra Bullock, George Clooney",United KingdomUnited States,"Disaster film
+"
+Hard to Be a God,Aleksey German,"Leonid Yarmolnik, Dmitriy Vladimirov, Laura Lauri, Aleksandr Ilin",Russia,"
+"
+Her,Spike Jonze,"Joaquin Phoenix, Scarlett Johansson",United States,"Drama, Romance
+"
+The Hunger Games: Catching Fire,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",United States,"
+"
+Independence Daysaster,W.D. Hogan,"Ryan Merriman, Emily Holmes",Canada,"Action
+"
+The Host,Andrew Niccol,"Saoirse Ronan, Diane Kruger, William Hurt",United States,"Romantic drama
+"
+Iron Man 3,Shane Black,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Ben Kingsley",United States,"Superhero
+"
+Krrish 3,Rakesh Roshan,"Hrithik Roshan, Vivek Oberoi, Priyanka",India,"Superhero
+"
+Justice League: The Flashpoint Paradox,Jay Oliva,"Justin Chambers, C. Thomas Howell, Michael B. Jordan",United States,"Animated superhero film[26]
+"
+The Last Days,"David Pastor, Àlex Pastor","Quim Gutiérrez, José Coronado, Marta Etura",SpainFrance,"Thriller
+"
+The Last Days on Mars,Ruairí Robinson,"Liev Schreiber, Romola Garai, Elias Koteas",IrelandUnited Kingdom,"Thriller
+"
+The Machine,Caradog W. James,"Caity Lotz, Toby Stephens",United Kingdom,"Thriller
+"
+Man of Steel,Zack Snyder,"Henry Cavill, Amy Adams, Michael Shannon",United StatesUnited Kingdom,"Superhero
+"
+Oblivion,Joseph Kosinski,"Tom Cruise, Andrea Riseborough, Olga Kurylenko, Morgan Freeman",United States,"Post-apocalyptic
+"
+Pacific Rim,Guillermo del Toro,"Idris Elba, Charlie Day, Charlie Hunnam",United States,"Monster movie
+"
+The Purge,James DeMonaco,"Lena Headey, Ethan Hawke",United States,"Dystopian thriller
+"
+Riddick,David Twohy,"Vin Diesel, Katee Sackhoff, Karl Urban",United States,"[27]
+"
+Snowpiercer,Bong Joon-ho,"Chris Evans, Song Kang-ho, Jamie Bell, Tilda Swinton, John Hurt, Ed Harris",South KoreaUnited StatesFrance,"Action thriller
+"
+Space Pirate Captain Harlock,Shinji Aramaki,,Japan,"Computer animated
+"
+Star Trek Into Darkness,J. J. Abrams,"Chris Pine, Benedict Cumberbatch, Zachary Quinto, Zoe Saldana",United States,"Action adventure
+"
+Superman Unbound,James Tuker,"Matt Bomer, Stana Katic, John Noble",United States,"Animated superhero film[28]
+"
+Thor: The Dark World,Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston",United States,"Superhero
+"
+"Upstream Color
+","Shane Carruth
+","Amy Seimetz, Shane Carruth
+","United States
+","
+"
+The Wolverine,James Mangold,"Hugh Jackman, Rila Fukushima",United KingdomUnited States,"Superhero
+"
+World War Z,Marc Forster,"Brad Pitt, Mireille Enos, James Badge Dale",United KingdomUnited States,"Post-apocalyptic zombie horror
+"
+The World's End,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman",United Kingdom,"Comedy
+"
+Young Ones,Jake Paltrow,"Nicholas Hoult, Elle Fanning, Michael Shannon",United States,"
+"
+The Zero Theorem,Terry Gilliam,"Christoph Waltz, Mélanie Thierry",United KingdomRomaniaFrance,"Drama, Fantasy[29]
+"
+The Amazing Spider-Man 2,Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx",United States,"Superhero
+"
+The Anomaly,Noel Clarke,"Noel Clarke, Ian Somerhalder, Brian Cox",United Kingdom,"
+"
+Arachnicide,Paolo Bertola,"Gino Barzacchi, Gabriel Cash, Riccardo Serventi Longhi",Italy,"Television film[30]
+"
+Armor Hero Atlas,Zheng Guowei,"Xu Feng, Cao Xiyue, Kenny Zeng",China,"Science fiction action[31]
+"
+Army of Frankensteins,Ryan Bellgardt,"Jordan Farris, Christian Bellgardt, Rett Terrell",United States,"Science fiction horror[32]
+"
+Autómata,Gabe Ibáñez,"Antonio Banderas, Melanie Griffith, Dylan McDermott ",SpainUnited States,"
+"
+Beyond,Joseph Baker and Tom Large,"Richard J. Danum, Gillian MacGregor, Paul Brannigan",United Kingdom,"Independent psychological drama[33]
+"
+Big Hero 6,Don Hall,"Ryan Potter (voice), Scott Adsit (voice), Jamie Chung (voice), Damon Wayans Jr. (voice), Genesis Rodriguez (voice), T. J. Miller (voice)",United States,"Animation
+"
+Black Butler,"Kentarō Ōtani, Keiichi Satō","Hiro Mizushima, Ayame Goriki, Yūka",Japan,"Science fiction action[34]
+"
+Bodacious Space Pirates: Abyss of Hyperspace,Tatsuo Satō,,Japan,"
+"
+Bugs,Yan Jia,"Xia Zitong, Zhang Zilin, Eric Wang",China,"Science fiction disaster thriller[35]
+"
+Calculator,Dmitriy Grachev,"Evgeniy Mironov, Vinnie Jones",Russia,"[36]
+"
+Captain America: The Winter Soldier,Russo brothers,"Chris Evans, Scarlett Johansson, Anthony Mackie, Emily VanCamp",United States,"Superhero
+"
+Christmas Icetastrophe,Jonathan Winfrey,"Victor Webster, Jennifer Spence",United States,"Television film[37]
+"
+Coherence,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon",United States,"
+"
+Dawn of the Planet of the Apes,Matt Reeves,"Jason Clarke, Kodi Smit-McPhee, Andy Serkis",United States,"
+"
+The Device,Jeremy Berg,"Kate Alden, Angela DiMarco, Lorraine Montez",United States,"[38]
+"
+Divergent,Neil Burger,"Shailene Woodley, Theo James, Ansel Elgort",United States,"
+"
+Earth to Echo,Dave Green,,United States,"
+"
+Edge of Tomorrow,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton",AustraliaUnited States,"Time travel action
+"
+Ejecta,"Chad Archibald, Matt Wiele","Lisa Houle, Julian Richings, Adam Seybold",Canada,"
+"
+Expelled from Paradise,Seiji Mizushima,"Rie Kugimiya (voice), Shin-ichiro Miki (voice), Hiroshi Kamiya (voice)",Japan,"Anime film
+"
+The Giver,Phillip Noyce,"Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift",United States,"
+"
+Die Gstettensaga: The Rise of Echsenfriedl,Johannes Grenzfurthner,"Lukas Tagwerker, Sophia Grabner, Jeff Ricketts",Austria,"Post-apocalyptic art house comedy
+"
+Godzilla,Gareth Edwards,"Aaron Johnson, Elizabeth Olsen, Bryan Cranston",JapanUnited States,"Monster movie
+"
+Guardians of the Galaxy,James Gunn,"Chris Pratt, Dave Bautista, Zoe Saldana",United States,"Superhero
+"
+The Hunger Games: Mockingjay – Part 1,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",United States,"Young adult dystopia
+"
+Interstellar,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Topher Grace, Michael Caine",United KingdomUnited States,"Action drama
+"
+Justice League: War,Jay Oliva,"Alan Tudyk, Shemar Moore, Steve Blum",United States,"Animated superhero film[39]
+"
+Lucy,Luc Besson,"Scarlett Johansson, Morgan Freeman",France,"Posthuman
+"
+The Maze Runner,Wes Ball,"Dylan O'Brien, Will Poulter, Thomas Sangster, Aml Ameen",United States,"Young adult action
+"
+"Monsters: Dark Continent
+","Tom Green
+","Johnny Harris, Sam Keeley, Joe Dempsie
+","United Kingdom
+","Monster film
+"
+Outpost 37,Jabbar Raisani,"Kenneth Fok, Stevel Marc, Joe Reegan",South AfricaUnited Kingdom,"Action thriller
+"
+Mr. Peabody & Sherman,Rob Minkoff,"Ty Burrell, Max Charles",United States,"
+"
+Parasyte: Part 1,Takashi Yamazaki,,Japan,"Horror[40]
+"
+Predestination,"Peter Spierig, Michael Spierig",Ethan Hawke,Australia,"Time travel
+"
+The Purge: Anarchy,James DeMonaco,"Frank Grillo, Carmen Ejogo",United States,"Dystopian thriller
+"
+The Quiet Hour,Stéphanie Joalland,"Karl Davies, Brigitte Millar, Dakota Blue Richards",IrelandUnited Kingdom,"[41]
+"
+RoboCop,José Padilha,"Joel Kinnaman, Gary Oldman, Michael Keaton, Samuel L. Jackson",United States,"Cyberpunk action
+"
+The Signal,William Eubank,"Brenton Thwaites, Olivia Cooke, Laurence Fishburne, Sarah Clarke",United States,"Mystery
+"
+Son of Batman,Ethan Spaulding,"Jason O'Mara, Thomas Gibson, Stuart Allan",United States,"Animated superhero film[42]
+"
+Space Station 76,Jack Plotnick,"Patrick Wilson, Liv Tyler, Matt Bomer",United States,"Retro comedy
+"
+Teenage Mutant Ninja Turtles,Jonathan Liebesman,"Megan Fox, Will Arnett, William Fichtner, Whoopi Goldberg",United States,"Action comedy
+"
+Time Lapse,Bradley D. King,"Danielle Panabaker, Matt O'Leary, George Finn",United States,"Thriller
+"
+Transcendence,Wally Pfister,"Johnny Depp, Paul Bettany, Rebecca Hall",United States,"Posthuman
+"
+Transformers: Age of Extinction,Michael Bay,"Mark Wahlberg, Jack Reynor, Nicola Peltz",United States,"Action
+"
+Space Battleship Yamato 2199: Odyssey of the Celestial Ark,,,Japan,"Anime film
+"
+Space Battleship Yamato 2199: A Voyage to Remember,,,Japan,"Anime film
+"
+Spring,Aaron Scott Moorhead,"Vanessa Bednar, Nadia Hilker, Lou Taylor Pucci",United States,"
+"
+Under the Skin,Jonathan Glazer,"Scarlett Johansson, Kryštof Hádek, Robert J. Goodwin",United Kingdom,"Art film
+"
+Wyrmwood,Kiah Roache-Turner,"Jay Gallagher, Bianca Bradley, Leon Burchill",Australia,"Science fiction horror[43]
+"
+X-Men: Days of Future Past,Bryan Singer,"Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence",United States,"Superhero
+"
+"Advantageous
+","Jennifer Phang
+","Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Samantha King
+","United States
+","Drama
+"
+Aliens: Zone-X,Thomas R. Dickens,"David J. Burke, Chris Harper",United States,"
+"
+Ant-Man,Peyton Reed,"Paul Rudd, Michael Douglas, Evangeline Lilly",United States,"Superhero
+"
+Avengers: Age of Ultron,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson",United States,"Superhero
+"
+Chappie,Neill Blomkamp,"Sharlto Copley, Watkin Tudor Jones, Yolandi Visser",United States,"
+"
+"Circle
+","Aaron Hann
+","Michael Nardelli, Carter Jenkins, Lawrence Kao, Allegra Masters
+","United States
+","psychological horror-thriller
+"
+The Divergent Series: Insurgent,Robert Schwentke,"Shailene Woodley, Theo James, Ansel Elgort",United States,"
+"
+The End of the World and the Cat's Disappearance,Michihiro Takeuchi,"Izukoneko, Jun Aonami, Daisuke Nishijima",Japan,"[44]
+"
+Equals,Drake Doremus,"Nicholas Hoult, Vernetta Lopez, Scott Lawrence",United States,"Romantic drama
+"
+Ex Machina,Alex Garland,"Domhnall Gleeson, Alicia Vikander, Oscar Isaac",United Kingdom,"Posthuman
+"
+Fantastic Four,Josh Trank,"Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell",United States,"Superhero
+"
+Ghost in the Shell: The New Movie,,,Japan,"
+"
+Hardcore Henry,Ilya Naishuller,"Sharlto Copley, Tim Roth, Haley Bennett",RussiaUnited States,"Action adventure
+"
+The Hunger Games: Mockingjay – Part 2,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",United States,"
+"
+Infini,Shane Abbess,"Daniel MacPherson, Grace Huang, Luke Hemsworth",Australia,"
+"
+Jupiter Ascending,The Wachowskis,"Mila Kunis, Channing Tatum, Sean Bean, Eddie Redmayne",United States,"Space opera
+"
+Jurassic World,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins, Nick Robinson",United States,"
+"
+Kung Fury,David Sandberg,"David Sandberg, Jorma Taccone, Leopold Nilsson",Sweden,"Short film
+"
+Lavalantula,Mike Mendez,"Steve Guttenberg, Nia Peeples, Patrick Renna",United States,"Television film[45]
+"
+Mad Max: Fury Road,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",AustraliaUnited States,"Post-apocalyptic action
+"
+The Martian,Ridley Scott,"Matt Damon, Jessica Chastain, Jeff Daniels",United States,"Survival drama
+"
+Maze Runner: The Scorch Trials,Wes Ball,"Dylan O'Brien, Thomas Brodie-Sangster, Giancarlo Esposito",United States,"
+"
+"MindGamers
+","Andrew Goth
+","Tom Payne, Dominique Tipper, Sam Neill, Melia Kreiling, Antonia Campbell-Hughes, Turlough Convery, Oliver Stark, Ryan Doyle, Simon Paisley Day, Pedja Bjelac, Ursula Strauss
+","Austria
+","
+"
+Monsters: Dark Continent,Tom Green,"Joe Dempsie, Johnny Harris, Sofia Boutella",United Kingdom,"Monster movie
+"
+On Line,Li Changxin,"Liu Mengmeng, Li Ning, Kang Enhe",China,"Action[46]
+"
+Pixels,Chris Columbus,"Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage",United States,"Action comedy
+"
+Project Almanac,Dean Israelite,"Jonny Weston, Sofia Black-D'Elia, Amy Landecker",United States,"
+"
+Psycho-Pass: The Movie,Naoyoshi Shiotani,,Japan,"Anime film
+"
+Self/less,Tarsem Singh,"Ryan Reynolds, Ben Kingsley",United States,"Mystery thriller
+"
+Star Wars: The Force Awakens,J. J. Abrams,"Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac",United States,"Space opera
+"
+Tales of Halloween,"Neil Marshall, Darren Lynn Bousman, Axelle Carolyn","Grace Phipps, Booboo Stewart, Adrienne Barbeau",United States,"Horror[47]
+"
+Terminator Genisys,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney",United States,"Time travel action
+"
+Tomorrowland,Brad Bird,"Britt Robertson, George Clooney",United States,"
+"
+Vice,Brian A. Miller,"Bruce Willis, Thomas Jane, Ambyr Childers",United States,"
+"
+The 5th Wave,J Blakeson,"Chloë Grace Moretz, Nick Robinson, Alex Roe, Liev Schreiber",United States,"
+"
+10 Cloverfield Lane,Dan Trachtenberg,"Mary Elizabeth Winstead, John Goodman, John Gallagher Jr., Bradley Cooper",United States,"Psychological thriller
+"
+24,Vikram Kumar,"Suriya, Samantha Ruth Prabhu",India,"Time Travel
+"
+Approaching the Unknown,Mark Elijah Rosenberg,"Mark Strong, Luke Wilson, Sanaa Lathan",United States,"
+"
+Arrival,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker",United States,"
+"
+"ARQ
+","Tony Elliott
+","Robbie Amell, Rachael Taylor, Shaun Benson, Gray Powell, Adam Butcher
+","United States
+Canada
+
+","
+"
+Batman v Superman: Dawn of Justice,Zack Snyder,"Henry Cavill, Ben Affleck, Amy Adams, Laurence Fishburne, Gal Gadot",United States,"Superhero
+"
+Captain America: Civil War,Russo brothers,"Chris Evans, Robert Downey Jr., Scarlett Johansson",United States,"Superhero
+"
+Cell,Tod Williams,"John Cusack, Stacy Keach, Samuel L. Jackson",United States,"
+"
+Colossal,Nacho Vigalondo,"Anne Hathaway, Dan Stevens, Jason Sudeikis, Austin Stowell, Tim Blake Nelson",CanadaSpain,"
+"
+"Deadpool
+","Tim Miller
+","Ryan Reynolds, Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, Brianna Hildebrand,
+","United States
+","Superhero
+"
+The Divergent Series: Allegiant,Robert Schwentke,"Shailene Woodley, Theo James",United States,"
+"
+Doctor Strange,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Tilda Swinton",United States,"
+"
+"Gantz: O
+","Keiichi Sato
+","Daisuke Ono, Mao Ichimichi, Tomohiro Kaku, Saori Hayami, Shūichi Ikeda, Masane Tsukayama, Yūki Kaji,
+","Japan
+","CGI anime science fiction
+"
+"Ghostbusters (2016 film)
+","Paul Feig
+","Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, Charles Dance, Michael K. Williams, Chris Hemsworth
+","United States
+","Supernatural Comedy
+"
+The Girl with All the Gifts,Colm McCarthy,"Gemma Arterton, Paddy Considine, Glenn Close",United Kingdom,"
+"
+Independence Day: Resurgence,Roland Emmerich,"Liam Hemsworth, Jessie Usher, Jeff Goldblum",United States,"Disaster film
+"
+Kill Command,Steven Gomez,"Thure Lindhardt, Vanessa Kirby",United Kingdom,"
+"
+Max Steel,Stewart Hendler,"Ben Winchell, Ana Villafañe, Andy García",United States,"
+"
+Midnight Special,Jeff Nichols,"Michael Shannon, Joel Edgerton, Kirsten Dunst",United States,"Supernatural drama
+"
+Morgan,Luke Scott,"Kate Mara, Anya Taylor-Joy, Paul Giamatti",United States,"
+"
+The Purge: Election Year,James DeMonaco,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson",United States,"Dystopian thriller
+"
+Passengers,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen",United States,"Romantic drama
+"
+Ratchet & Clank,Kevin Munroe,"James Arnold Taylor, David Kaye, Paul Giamatti, John Goodman",United States,"Animated action comedy
+"
+Rogue One,Gareth Edwards,"Felicity Jones, Diego Luna, Riz Ahmed",United States,"Space opera
+"
+Rupture,Steven Shainberg,"Noomi Rapace, Peter Stormare, Kerry Bishé",United StatesCanada,"
+"
+Shin Godzilla,"Hideaki Anno, Shinji Higuchi","Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara",Japan,"Monster movie
+"
+Spectral,Nic Mathieu,"James Badge Dale, Max Martini, Emily Mortimer, Bruce Greenwood",United States,"Military science fiction
+"
+Star Trek Beyond,Justin Lin,"Chris Pine, Idris Elba, Zachary Quinto, Zoe Saldana",United States,"Action adventure
+"
+Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,"Megan Fox, Stephen Amell, Will Arnett, Tyler Perry, Laura Linney",United States,"Action comedy
+"
+Terra Formars,Takashi Miike,,Japan,"Action horror
+"
+Train to Busan,Yeon Sang-ho,"Gong Yoo, Ma Dong-seok, Jung Yu-mi",South Korea,"Horror[49]
+"
+X-Men: Apocalypse,Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Oscar Isaac",United States,"Superhero
+"
+24 Hours to Live,Brain Smrz,"Ethan Hawke, Xu Qing, Paul Anderson",South AfricaUnited States,"Action thriller[50]
+"
+Alien: Covenant,Ridley Scott,"Michael Fassbender, Katherine Waterston",United KingdomUnited States,"
+"
+Attraction,Fyodor Bondarchuk,,Russia,"
+"
+Beyond Skyline,Liam O'Donnell,"Frank Grillo, Bojana Novakovic, Iko Uwais",United States,"
+"
+Blade Runner 2049,Denis Villeneuve,"Harrison Ford, Ryan Gosling, Robin Wright, Dave Bautista, Ana de Armas",United States,"
+"
+Blame!,Hiroyuki Seshita,,Japan,"
+"
+Bokeh,"Geoffrey Orthwein, Andrew Sullivan","Maika Monroe, Matt O'Leary, Arnar Jónsson",United States,"Drama
+"
+The Circle,James Ponsoldt,"Tom Hanks, Emma Watson, Patton Oswalt",United States,"
+"
+Despicable Me 3,"Pierre Coffin, Kyle Balda",Steve Carell (voice),United States,"
+"
+Downsizing,Alexander Payne,"Matt Damon, Christoph Waltz",United States,"Comedy-drama
+"
+Get Out,Jordan Peele,"Daniel Kaluuya, Allison Williams, Bradley Whitford",United States,"Horror[51]
+"
+Geostorm,Dean Devlin,"Gerard Butler, Abbie Cornish",United States,"Disaster film
+"
+Ghost in the Shell,Rupert Sanders,"Scarlett Johansson, Pilou Asbæk",United States,"1995 anime remake
+"
+Godzilla: Planet of the Monsters,Kōbun ShizunoHiroyuki Seshita,,Japan,"
+"
+Guardians of the Galaxy Vol. 2,James Gunn,"Chris Pratt, Dave Bautista, Zoe Saldana",United States,"Superhero
+"
+How to Talk to Girls at Parties,John Cameron Mitchell,"Elle Fanning, Alex Sharp, Nicole Kidman, Ruth Wilson, Matt Lucas",United KingdomUnited States,"Romantic comedy
+"
+"The Humanity Bureau
+","Rob W. King
+","Nicolas Cage, Sarah Lind, Hugh Dillon,Jakob Davies
+","Canada
+","Thriller
+"
+"IBoy
+","Adam Randall
+","Bill Milner, Maisie Williams, Jordan Bolger, Charley Palmer Rothwell, Aymen Hamdouchi, Miranda Richardson, Rory Kinnear
+","United Kingdom
+","Teen thriller film
+"
+Kill Switch,Tim Smit,"Dan Stevens, Bérénice Marlohe, Tygo Gernandt, Charity Wakefield, Bas Keijzer, Mike Libanon, Mike Reus",United States,"
+"
+Justice League,Zack Snyder,"Henry Cavill, Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller, Ray Fisher",United States,"
+"
+The Last Scout,Simon Phillips,"Blaine Grey, Simon Phillips, Peter Woodward",United Kingdom,"[52]
+"
+Life,Daniel Espinosa,"Ryan Reynolds, Rebecca Ferguson, Jake Gyllenhaal, Hiroyuki Sanada",United States,"Horror thriller
+"
+Logan,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",United States,"Superhero drama
+"
+The Man from Earth: Holocene,Richard Schenkman,"David Lee Smith, William Katt, Vanessa Williams, Michael Dorn, Sterling Knight, Brittany Curran, Carlos Knight, Akemi Look, John Billingsley",United States,"Sequel to The Man from Earth (2007)
+"
+The Man with the Magic Box,Bodo Kox,"Olga Bołądź, Piotr Polak, Sebastian Stankiewicz",PolandItaly,"Dystopian thriller, time travel
+"
+"Orbiter 9
+","Hatem Khraiche
+","Clara Lago, Álex González
+","Spain
+Colombia
+
+","Romantic drama
+"
+OtherLife,Ben C. Lucas,"Jessica De Gouw, T.J. Power, Thomas Cocquerel, Clarence Ryan, Tiriel Mora, Adriane Daff",Australia,"Thriller
+"
+Power Rangers,Dean Israelite,"Naomi Scott, Becky G, RJ Cyler, Dacre Montgomery, Ludi Lin",United States,"Superhero Coming-of-age
+"
+The Recall,Mauro Borrelli,"Wesley Snipes, RJ Mitte",United StatesCanada,"
+"
+"Rememory
+","Mark Palansky
+","Peter Dinklage, Julia Ormond, Anton Yelchin, Colin Lawrence
+","United Kingdom
+United States
+Canada
+
+","Mystery film
+"
+Resident Evil: The Final Chapter,Paul W. S. Anderson,"Milla Jovovich, Ali Larter, Shawn Roberts",United StatesFrance,"Horror action
+"
+Revolt,Joe Miale,"Lee Pace, Bérénice Marlohe",United States,"
+"
+"Singularity
+","Robert Kouba
+","John Cusack, Carmen Argenziano, Julian Schaffner, Jeannine Wacker [de]
+","Switzerland United States
+","
+"
+The Space Between Us,Peter Chelsom,"Asa Butterfield, Britt Robertson, Gary Oldman",United States,"Romantic drama
+"
+"Spider-Man: Homecoming
+","Jon Watts
+","Tom Holland, Michael Keaton, Jon Favreau, Gwyneth Paltrow, Zendaya, Donald Glover, Jacob Batalon, Laura Harrier, Tony Revolori, Bokeem Woodbine, Tyne Daly, Marisa Tomei, Robert Downey Jr.
+","United States
+","Superhero
+"
+Star Wars: The Last Jedi,Rian Johnson,"Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac",United States,"Space opera
+"
+Thor: Ragnarok,Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett",United States,"Superhero
+"
+Time Trap,Ben Foster and Mark Dennis,"Brianne Howey, Cassidy Erin Gifford, Olivia Draguicevich, Andrew Wilson, Reiley McClendon",United States,"Adventure
+"
+Transformers: The Last Knight,Michael Bay,"Mark Wahlberg, Isabela Moner, Josh Duhamel, Tyrese Gibson",United States,"Action
+"
+Valerian and the City of a Thousand Planets,Luc Besson,"Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna, Ethan Hawke",France,"
+"
+War for the Planet of the Apes,Matt Reeves,"Andy Serkis, Steve Zahn, Woody Harrelson",United States,"
+"
+Werewolves of the Third Reich,Andrew Jones,"Annabelle Lanyon, Lee Bane, Derek Nelson",United Kingdom,"Horror[53]
+"
+What Happened to Monday,Tommy Wirkola,"Noomi Rapace, Willem Dafoe, Glenn Close",United KingdomUnited StatesFranceBelgium,"
+"
+2.0,S. Shankar,"Rajinikanth, Amy Jackson",India,"Action
+"
+Annihilation,Alex Garland,"Natalie Portman, Jennifer Jason Leigh, Tessa Thompson",United States,"Horror
+"
+Anon,Andrew Niccol,"Clive Owen, Amanda Seyfried",United States,"Thriller
+"
+Ant-Man and the Wasp,Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Douglas",United States,"Superhero
+"
+Avengers: Infinity War,Russo brothers,"Robert Downey Jr., Josh Brolin, Chris Evans, Scarlett Johansson",United States,"Superhero
+"
+"Await Further Instructions
+","Johnny Kevorkian
+","Sam Gittins, Neerja Naik, Abigail Cruttenden, David Bradley,
+","United Stats
+","Horror, Mystery
+"
+"A.X.L.
+","Oliver Daly
+","Alex Neustaedter, Becky G, Alex MacNicoll, Dominic Rains,Thomas Jane
+","United States
+","Adventure
+"
+Black Panther,Ryan Coogler,"Chadwick Boseman, Lupita Nyong'o, Michael B. Jordan",United States,"Superhero[54]
+"
+Bumblebee,Travis Knight,"Hailee Steinfeld, John Cena",United States,"Action
+"
+The Cloverfield Paradox,Julius Onah,"David Oyelowo, Gugu Mbatha-Raw",United States,"Horror
+"
+Deadpool 2,David Leitch,"Ryan Reynolds, Josh Brolin",United States,"Superhero
+"
+"Elizabeth Harvest
+","Sebastian Gutierrez
+","Abbey Lee, Dylan Baker, Matthew Beard, Carla Gugino, Ciarán Hinds
+","United States
+","Thriller
+"
+Extinction,Ben Young,"Michael Peña, Lizzy Caplan",United States,"Action
+"
+The First Purge,Gerard McMurray,,United States,"Dystopian action thriller
+"
+Forsaken,Alexander Kulikov,Alexander Kulikov,Russia,"Psychological thriller
+"
+"Freaks
+","Adam Stein, Zach Lipovsky
+","Emile Hirsch, Bruce Dern, Grace Park,
+","United States
+Canada
+
+","Science fiction thriller film
+"
+Godzilla: City on the Edge of Battle,"Kōbun Shizuno, Hiroyuki Seshita",,Japan,"Animated kaiju
+"
+Godzilla: The Planet Eater,"Kōbun Shizuno, Hiroyuki Seshita",,Japan,"Animated kaiju
+"
+High Life,Claire Denis,"Robert Pattinson, Mia Goth, Juliette Binoche",United KingdomFranceGermany,"Horror
+"
+His Master's Voice,György Pálfi,"Kate Vernon, Marshall Williams, Eric Peterson",HungaryCanada,"
+"
+Hotel Artemis,Drew Pearce,"Jodie Foster, Sterling K. Brown, Sofia Boutella, Jeff Goldblum",United States,"Dystopian tech noir thriller
+"
+"How It Ends (2018 film)
+","David M. Rosenthal
+","Theo James, Forest Whitaker, Grace Dove, Kat Graham, Mark O'Brien
+","United States
+","Action thriller
+"
+The Humanity Bureau,Rob W. King,"Nicolas Cage, Sarah Lind",Canada,"Thriller
+"
+Isle of Dogs,Wes Anderson,"Bryan Cranston (voice), Koyu Rankin (voice), Edward Norton (voice)",United StatesGermany,"Stop-motion animation science fiction/comedy film
+"
+"Jonathan
+","Bill Oliver
+","Ansel Elgort, Suki Waterhouse, Patricia Clarkson
+","United States
+","American drama
+"
+Jurassic World: Fallen Kingdom,Juan Antonio Bayona,"Chris Pratt, Bryce Dallas Howard",United States,"Adventure
+"
+Kin,"Jonathan Baker, Josh Baker","Jack Reynor, James Franco",United States,"Crime drama
+"
+Maze Runner: The Death Cure,Wes Ball,Dylan O'Brien,United States,"Dystopian
+"
+Mortal Engines,Christian Rivers,"Robert Sheehan, Hera Hilmar, Leila George, Ronan Raftery, Hugo Weaving, Stephen Lang",United States,"Post-apocalyptic action adventure
+"
+Mute,Duncan Jones,"Alexander Skarsgård, Paul Rudd, Justin Theroux",United KingdomGermany,"Neo-noir
+"
+Nekrotronic,Kiah Roache-Turner,"Ben O'Toole, Monica Bellucci, Caroline Ford",Australia,"Comedy horror[55]
+"
+"Occupation
+","Luke Sparke
+","Dan Ewing, Temuera Morrison, Stephany Jacobsen
+","Australia
+","Action
+"
+Overlord,Julius Avery,"Jovan Adepo, Wyatt Russell, Mathilde Ollivier",United States,"War horror[56]
+"
+Pacific Rim: Uprising,Steven S. DeKnight,"John Boyega, Cailee Spaeny, Scott Eastwood",United States,"Action
+"
+The Predator,Shane Black,"Boyd Holbrook, Olivia Munn, Trevante Rhodes",United States,"Action
+"
+Prospect,"Zeek Earl, Christopher Caldwell","Sophie Thatcher, Pedro Pascal",United States,"
+"
+Ready Player One,Steven Spielberg,"Tye Sheridan, Olivia Cooke",United States,"Action-adventure
+"
+Solo: A Star Wars Story,Ron Howard,"Alden Ehrenreich, Donald Glover, Emilia Clarke, Woody Harrelson",United States,"Space Western
+"
+"Spider-Man: Into the Spider-Verse
+","Bob Persichetti, Peter Ramsey, Rodney Rothman
+","Jake Johnson (voice), Hailee Steinfeld (voice), Mahershala Ali (voice), Brian Tyree Henry (voice), Lily Tomlin (voice), Luna Lauren Velez (voice), John Mulaney (voice), Kimiko Glenn (voice), Nicolas Cage (voice), Liev Schreiber (voice)
+","United States
+","Animated superhero film
+"
+"Tau
+","Frederico D'Alessendro
+","Maika Monroe, Ed Skrein, Gary Oldman
+","United States
+","thriller
+"
+The Titan,Lennart Ruff,"Sam Worthington, Taylor Schilling",United KingdomSpainUnited States,"Thriller
+"
+Upgrade,Leigh Whannell,Logan Marshall-Green,Australia,"Cyberpunk action body horror
+"
+Venom,Ruben Fleischer,"Tom Hardy, Michelle Williams, Riz Ahmed",United States,"Superhero
+"
+9,Jenuse Mohamed,"Prithviraj Sukumaran, Mamtha Mohandas, Prakash Raj, Wamiqa Gabbi, Master Alok",India,"Supernatural horror[57]
+"
+"3022
+","John Suits
+","Omar Epps, Kate Walsh, Miranda Cosgrove, Angus Macfadyen
+","United States
+","
+"
+Ad Astra,James Gray,"Brad Pitt, Tommy Lee Jones",United States,"Psychological drama
+"
+"Alien Warfare
+","Jeremiah Jones
+","Clayton Snyder, Daniel Washington, Larissa Andrade, Kaitlyn Hiller
+","United States
+","Action
+"
+Alita: Battle Angel,Robert Rodriguez,"Rosa Salazar, Mahershala Ali, Christoph Waltz",United States,"Cyberpunk
+"
+Aniara,"Pella Kågerman, Hugo Lilja","Emelie Jonsson, Bianca Cruzeiro, Arvin Kananian",Sweden,"
+"
+"Assimilate
+","John Murlowski
+","Joel Courtney, Andi Matichak, Calum Worthy
+","United States
+","Horror film
+"
+Avengers: Endgame,Russo brothers,"Robert Downey Jr., Josh Brolin, Chris Evans, Scarlett Johansson",United States,"Superhero
+"
+Brightburn,David Yarovesky,"Elizabeth Banks, David Denman",United States,"Superhero horror
+"
+Captain Marvel,Anna Boden and Ryan Fleck,"Brie Larson, Samuel L. Jackson, Jude Law",United States,"Superhero
+"
+Captive State,Rupert Wyatt,"John Goodman, Vera Farmiga, Ashton Sanders, Jonathan Majors",United States,"Crime thriller
+"
+"Cargo
+","Arati Kadav
+","Vikrant Massey, Shweta Tripathi,
+","India
+","
+"
+Code 8,Jeff Chan,"Robbie Amell, Stephen Amell, Sung Kang",Canada,"Action
+"
+Crazy Alien,Ning Hao,"Huang Bo, Shen Teng, Matthew Morrison",China,"Comedy
+"
+Dark Phoenix,Simon Kinberg,"James McAvoy, Michael Fassbender, Jennifer Lawrence",United States,"Superhero
+"
+"Doom: Annihilation
+","Tony Giglio
+","Amy Manson, Dominic Mafham, Luke Allen-Gale, Nina Bergman
+","United States
+","Action
+"
+Gemini Man,Ang Lee,"Will Smith, Mary Elizabeth Winstead",United States,"Action thriller
+"
+Godzilla: King of the Monsters,Michael Dougherty,"Millie Bobby Brown, Kyle Chandler, Vera Farmiga",United States,"Monster
+"
+"Hellboy (2019 film)
+","Neil Marshall
+","David Harbour, Milla Jovovich, Ian McShane, Sasha Lane, Daniel Dae Kim, Thomas Haden Church,
+","United States
+","Superhero
+"
+I Am Mother,Grant Sputore,"Clara Rugaard, Rose Byrne, Hilary Swank",Australia,"Thriller
+"
+In the Shadow of the Moon,Jim Mickle,"Boyd Holbrook, Cleopatra Coleman, Michael C. Hall",United States,"Thriller
+"
+Io,Jonathan Helpert,"Margaret Qualley, Anthony Mackie",United States,"
+"
+Iron Sky: The Coming Race,Timo Vuorensola,"Julia Dietze, Udo Kier, Tom Green",Finland,"Comic action
+"
+Men in Black: International,F. Gary Gray,"Chris Hemsworth, Tessa Thompson",United States,"Action comedy
+"
+Project Ghazi,Nadir Shah,"Humayun Saeed, Sheheryar Munawar, Syra Shehroz, Adnan Jaffar, Talat Hussain, Amir Qureshi, Nusrat Hidayutullah, Raza Hyder",Pakistan,"Action
+"
+Replicas,Jeffrey Nachmanoff,"Keanu Reeves, Alice Eve",United States,"Thriller
+"
+"Rim of the World
+","McG
+","Jack Gore, Miya Cech, Benjamin Flores Jr., Alessio Scalzotto
+","United States
+","
+"
+"See You Yesterday
+","Stefon Bristol
+","Eden Duncan-Smith, Danté Crichlow, Marsha Stephanie Blake, Johnathan Nieves, Myra Lucretia Taylor, Wavyy Jonez, Rayshawn Richardson, Ron Bobb-Semple, Astro (rapper)
+","United States
+","
+"
+Shanghai Fortress,Teng Huatao,"Lu Han, Shu Qi",China,"Action
+"
+Short Circuit,Faisal Hashmi,"Dhvanit Thaker, Kinjal Rajpriya",India,"Comedy-drama
+"
+Star Wars: The Rise of Skywalker,J. J. Abrams,"Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac",United States,"Epic space opera
+"
+Terminator: Dark Fate,Tim Miller,"Arnold Schwarzenegger, Linda Hamilton",United States,"Action
+"
+The Wandering Earth,Frant Gwo,"Wu Jing, Qu Chuxiao, Li Guangjie",China,"Action
+"
+The Vast of Night,Andrew Patterson,"Sierra McCormick, Jake Horowitz",United States,"Mystery
+"
