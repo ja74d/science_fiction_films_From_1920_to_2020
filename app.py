@@ -11,7 +11,7 @@ csv_file = open('all.csv', 'w')
 
 # all movies
 def info():
-    for year in ['1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000', '2010', '2020']:
+    for x in range(1920, 2020, 10):
         source = requests.get(f"https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_{year}s").text
         soup = BeautifulSoup(source, 'lxml')
 
