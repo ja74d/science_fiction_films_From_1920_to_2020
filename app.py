@@ -21,27 +21,27 @@ def info():
         for films in table.find_all('tr'):
             try:
                 movie_name = films.find_all('td')[0].text
-    #            print(movie_name)
+                #print(movie_name)
 
                 # movie director
                 director = films.find_all('td')[1].text
-    #            print(director)
+                #print(director)
 
                 # cast
                 cast_name = films.find_all('td')[2].text
-    #            print(cast_name)
+                #print(cast_name)
 
                 # country
                 country_name = films.find_all('td')[3].text
-    #            print(country_name)
+                #print(country_name)
 
                 # subgenre/notes
                 subgenre_name = films.find_all('td')[4].text
                 writer.writerow((movie_name, director, cast_name, country_name, subgenre_name))
-    #            print(subgenre_name)
+                #print(subgenre_name)
 
                 #print('\n')
-    #            print('----------------------------')
+                #print('----------------------------')
             except:
                 pass
 info()
